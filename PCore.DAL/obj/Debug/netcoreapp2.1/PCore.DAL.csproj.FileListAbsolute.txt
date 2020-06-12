@@ -1,0 +1,4 @@
+C:\Users\laedo\Documents\PCore\PCore.DAL\obj\Debug\netcoreapp2.1\PCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\laedo\Documents\PCore\PCore.DAL\obj\Debug\netcoreapp2.1\PCore.DAL.AssemblyInfoInputs.cache
+C:\Users\laedo\Documents\PCore\PCore.DAL\obj\Debug\netcoreapp2.1\PCore.DAL.AssemblyInfo.cs
+C:\Users\laedo\Documents\PCore\PCore.DAL\obj\Debug\netcoreapp2.1\PCore.DAL.csprojAssemblyReference.cache

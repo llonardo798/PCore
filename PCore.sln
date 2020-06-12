@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCore", "PCore\PCore.csproj", "{10815AB6-B72D-48AA-A63F-A8DADD212402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCore.Logica", "PCore.Logica\PCore.Logica.csproj", "{D2363393-FE20-47F8-85A9-A9F88DE15DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCore.DAL", "PCore.DAL\PCore.DAL.csproj", "{C8A59542-04C8-4373-8886-D30FBBE54322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10815AB6-B72D-48AA-A63F-A8DADD212402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10815AB6-B72D-48AA-A63F-A8DADD212402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10815AB6-B72D-48AA-A63F-A8DADD212402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10815AB6-B72D-48AA-A63F-A8DADD212402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2363393-FE20-47F8-85A9-A9F88DE15DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2363393-FE20-47F8-85A9-A9F88DE15DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2363393-FE20-47F8-85A9-A9F88DE15DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2363393-FE20-47F8-85A9-A9F88DE15DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A59542-04C8-4373-8886-D30FBBE54322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A59542-04C8-4373-8886-D30FBBE54322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A59542-04C8-4373-8886-D30FBBE54322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A59542-04C8-4373-8886-D30FBBE54322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C5C43E-023E-4551-9F91-0915CB023BF6}
+	EndGlobalSection
+EndGlobal

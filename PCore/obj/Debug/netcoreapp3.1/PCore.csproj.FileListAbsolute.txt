@@ -1,0 +1,7 @@
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.csprojAssemblyReference.cache
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.csproj.CoreCompileInputs.cache
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.RazorAssemblyInfo.cache
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.RazorAssemblyInfo.cs
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.AssemblyInfoInputs.cache
+C:\Users\laedo\Documents\PCore\PCore\obj\Debug\netcoreapp3.1\PCore.AssemblyInfo.cs

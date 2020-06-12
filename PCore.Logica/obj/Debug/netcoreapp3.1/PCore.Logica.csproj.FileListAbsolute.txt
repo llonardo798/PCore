@@ -1,0 +1,4 @@
+C:\Users\laedo\Documents\PCore\PCore.Logica\obj\Debug\netcoreapp3.1\PCore.Logica.csproj.CoreCompileInputs.cache
+C:\Users\laedo\Documents\PCore\PCore.Logica\obj\Debug\netcoreapp3.1\PCore.Logica.AssemblyInfoInputs.cache
+C:\Users\laedo\Documents\PCore\PCore.Logica\obj\Debug\netcoreapp3.1\PCore.Logica.AssemblyInfo.cs
+C:\Users\laedo\Documents\PCore\PCore.Logica\obj\Debug\netcoreapp3.1\PCore.Logica.csprojAssemblyReference.cache
